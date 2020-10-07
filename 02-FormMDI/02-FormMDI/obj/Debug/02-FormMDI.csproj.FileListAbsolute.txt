@@ -1,0 +1,11 @@
+C:\Users\f.piumatti.1365\Desktop\Esercizi-Piumatti\02-FormMDI\02-FormMDI\bin\Debug\02-FormMDI.exe.config
+C:\Users\f.piumatti.1365\Desktop\Esercizi-Piumatti\02-FormMDI\02-FormMDI\bin\Debug\02-FormMDI.exe
+C:\Users\f.piumatti.1365\Desktop\Esercizi-Piumatti\02-FormMDI\02-FormMDI\bin\Debug\02-FormMDI.pdb
+C:\Users\f.piumatti.1365\Desktop\Esercizi-Piumatti\02-FormMDI\02-FormMDI\obj\Debug\02-FormMDI.csprojAssemblyReference.cache
+C:\Users\f.piumatti.1365\Desktop\Esercizi-Piumatti\02-FormMDI\02-FormMDI\obj\Debug\_02_FormMDI.Form1.resources
+C:\Users\f.piumatti.1365\Desktop\Esercizi-Piumatti\02-FormMDI\02-FormMDI\obj\Debug\_02_FormMDI.Properties.Resources.resources
+C:\Users\f.piumatti.1365\Desktop\Esercizi-Piumatti\02-FormMDI\02-FormMDI\obj\Debug\02-FormMDI.csproj.GenerateResource.cache
+C:\Users\f.piumatti.1365\Desktop\Esercizi-Piumatti\02-FormMDI\02-FormMDI\obj\Debug\02-FormMDI.exe
+C:\Users\f.piumatti.1365\Desktop\Esercizi-Piumatti\02-FormMDI\02-FormMDI\obj\Debug\02-FormMDI.pdb
+C:\Users\f.piumatti.1365\Desktop\Esercizi-Piumatti\02-FormMDI\02-FormMDI\obj\Debug\_02_FormMDI.figlia1.resources
+C:\Users\f.piumatti.1365\Desktop\Esercizi-Piumatti\02-FormMDI\02-FormMDI\obj\Debug\_02_FormMDI.ModalEsci.resources
