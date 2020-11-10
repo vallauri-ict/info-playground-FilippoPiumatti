@@ -1,0 +1,9 @@
+C:\Users\filip\source\repos\regex_solution\regex_project\bin\Debug\regex_project.exe.config
+C:\Users\filip\source\repos\regex_solution\regex_project\bin\Debug\regex_project.exe
+C:\Users\filip\source\repos\regex_solution\regex_project\bin\Debug\regex_project.pdb
+C:\Users\filip\source\repos\regex_solution\regex_project\obj\Debug\regex_project.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\regex_solution\regex_project\obj\Debug\regex_project.Form1.resources
+C:\Users\filip\source\repos\regex_solution\regex_project\obj\Debug\regex_project.Properties.Resources.resources
+C:\Users\filip\source\repos\regex_solution\regex_project\obj\Debug\regex_project.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\regex_solution\regex_project\obj\Debug\regex_project.exe
+C:\Users\filip\source\repos\regex_solution\regex_project\obj\Debug\regex_project.pdb
