@@ -1,0 +1,11 @@
+C:\Users\filip\source\repos\algoritmodiricercaablocchi-project\algoritmodiricercaablocchi-project\bin\Debug\netcoreapp3.0\algoritmodiricercaablocchi-project.exe
+C:\Users\filip\source\repos\algoritmodiricercaablocchi-project\algoritmodiricercaablocchi-project\bin\Debug\netcoreapp3.0\algoritmodiricercaablocchi-project.deps.json
+C:\Users\filip\source\repos\algoritmodiricercaablocchi-project\algoritmodiricercaablocchi-project\bin\Debug\netcoreapp3.0\algoritmodiricercaablocchi-project.runtimeconfig.json
+C:\Users\filip\source\repos\algoritmodiricercaablocchi-project\algoritmodiricercaablocchi-project\bin\Debug\netcoreapp3.0\algoritmodiricercaablocchi-project.runtimeconfig.dev.json
+C:\Users\filip\source\repos\algoritmodiricercaablocchi-project\algoritmodiricercaablocchi-project\bin\Debug\netcoreapp3.0\algoritmodiricercaablocchi-project.dll
+C:\Users\filip\source\repos\algoritmodiricercaablocchi-project\algoritmodiricercaablocchi-project\bin\Debug\netcoreapp3.0\algoritmodiricercaablocchi-project.pdb
+C:\Users\filip\source\repos\algoritmodiricercaablocchi-project\algoritmodiricercaablocchi-project\obj\Debug\netcoreapp3.0\algoritmodiricercaablocchi-project.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\algoritmodiricercaablocchi-project\algoritmodiricercaablocchi-project\obj\Debug\netcoreapp3.0\algoritmodiricercaablocchi-project.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\algoritmodiricercaablocchi-project\algoritmodiricercaablocchi-project\obj\Debug\netcoreapp3.0\algoritmodiricercaablocchi-project.AssemblyInfo.cs
+C:\Users\filip\source\repos\algoritmodiricercaablocchi-project\algoritmodiricercaablocchi-project\obj\Debug\netcoreapp3.0\algoritmodiricercaablocchi-project.dll
+C:\Users\filip\source\repos\algoritmodiricercaablocchi-project\algoritmodiricercaablocchi-project\obj\Debug\netcoreapp3.0\algoritmodiricercaablocchi-project.pdb

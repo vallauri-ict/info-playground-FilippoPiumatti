@@ -1,0 +1,9 @@
+C:\Users\filip\source\repos\09_EsGuidato\09_EsGuidato\bin\Debug\09_EsGuidato.exe.config
+C:\Users\filip\source\repos\09_EsGuidato\09_EsGuidato\bin\Debug\09_EsGuidato.exe
+C:\Users\filip\source\repos\09_EsGuidato\09_EsGuidato\bin\Debug\09_EsGuidato.pdb
+C:\Users\filip\source\repos\09_EsGuidato\09_EsGuidato\obj\Debug\09_EsGuidato.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\09_EsGuidato\09_EsGuidato\obj\Debug\_09_EsGuidato.Form1.resources
+C:\Users\filip\source\repos\09_EsGuidato\09_EsGuidato\obj\Debug\_09_EsGuidato.Properties.Resources.resources
+C:\Users\filip\source\repos\09_EsGuidato\09_EsGuidato\obj\Debug\09_EsGuidato.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\09_EsGuidato\09_EsGuidato\obj\Debug\09_EsGuidato.exe
+C:\Users\filip\source\repos\09_EsGuidato\09_EsGuidato\obj\Debug\09_EsGuidato.pdb
