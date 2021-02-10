@@ -1,3 +1,2 @@
-Filippo Piumatti
+# Fiippo Pimatti-info playground
 
-esercizi di informatica

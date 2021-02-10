@@ -1,9 +1,0 @@
-C:\Users\filip\Desktop\32bitgoogle\Dictionary_solution\Dictionary_project\bin\Debug\Dictionary_project.exe.config
-C:\Users\filip\Desktop\32bitgoogle\Dictionary_solution\Dictionary_project\bin\Debug\Dictionary_project.exe
-C:\Users\filip\Desktop\32bitgoogle\Dictionary_solution\Dictionary_project\bin\Debug\Dictionary_project.pdb
-C:\Users\filip\Desktop\32bitgoogle\Dictionary_solution\Dictionary_project\obj\Debug\Dictionary_project.csprojAssemblyReference.cache
-C:\Users\filip\Desktop\32bitgoogle\Dictionary_solution\Dictionary_project\obj\Debug\Dictionary_project.Form1.resources
-C:\Users\filip\Desktop\32bitgoogle\Dictionary_solution\Dictionary_project\obj\Debug\Dictionary_project.Properties.Resources.resources
-C:\Users\filip\Desktop\32bitgoogle\Dictionary_solution\Dictionary_project\obj\Debug\Dictionary_project.csproj.GenerateResource.cache
-C:\Users\filip\Desktop\32bitgoogle\Dictionary_solution\Dictionary_project\obj\Debug\Dictionary_project.exe
-C:\Users\filip\Desktop\32bitgoogle\Dictionary_solution\Dictionary_project\obj\Debug\Dictionary_project.pdb

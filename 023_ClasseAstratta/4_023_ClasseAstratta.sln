@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_023_ClasseAstratta", "4_023_ClasseAstratta\4_023_ClasseAstratta.csproj", "{AD0CE004-70F2-433B-B792-041439F4FEE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0CE004-70F2-433B-B792-041439F4FEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0CE004-70F2-433B-B792-041439F4FEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0CE004-70F2-433B-B792-041439F4FEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0CE004-70F2-433B-B792-041439F4FEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10432276-D8AB-4301-86C4-56EAD35D359F}
+	EndGlobalSection
+EndGlobal
